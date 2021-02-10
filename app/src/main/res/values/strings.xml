@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HistoryQuiz</string>
+    <string name="question_women_suffrage">The 19th amendment gave women the right to vote</string>
+    <string name="question_first_republican_president">Abraham Lincoln was the first Republican President</string>
+    <string name="question_plessy_v_ferguson">Plessy v. Ferguson upheld that separate is not equal</string>
+    <string name="question_little_rock_troops">Republican President Dwight Eisenhower sent federal troops to Little Rock to uphold the law that schools must integrate</string>
+    <string name="question_current_president">The current President is Joe Biden</string>
+    <string name="question_current_speaker">The current Speaker of the House is Kevin McCarthy</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="back_button">Back</string>
+    <string name="next_button">Next</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="do_not_know_button">Don\'t know answer</string>
+
+    <string name="score_field">Score: </string>
+    <string name="exit_button">Exit</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect :(</string>
+    <string name="back_error">Cannot go back</string>
+    <string name="warning_text">Are you sure you want to reveal the answer?</string>
+    <string name="judgment_toast">You already know the answer!</string>
+</resources>
